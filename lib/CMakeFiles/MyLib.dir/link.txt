@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libMyLib.a  CMakeFiles/MyLib.dir/src/Logger.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libMyLib.a

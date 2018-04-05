@@ -1,0 +1,28 @@
+Start testing: Apr 04 11:34 AEST
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/Users/jkrohn/code/Fitter/jo/test_cmake/tests/test1"
+Directory: /Users/jkrohn/code/Fitter/jo/test_cmake/tests
+"AllTests" start time: Apr 04 11:34 AEST
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from MinuitTest
+[ RUN      ] MinuitTest.TestExitence
+[       OK ] MinuitTest.TestExitence (335 ms)
+[----------] 1 test from MinuitTest (335 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (335 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Apr 04 11:34 AEST
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 04 11:34 AEST

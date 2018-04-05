@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jkrohn/code/Fitter/jo/test_cmake/src/Logger.cc
+Logger.h
+/Users/jkrohn/code/Fitter/jo/test_cmake/src/Logger.h
+iostream
+-
+
+include/Logger.h
+
